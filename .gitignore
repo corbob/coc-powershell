@@ -4,4 +4,5 @@ PowerShellEditorServices/
 node_modules
 out
 yarn.lock
+yarn-error.log
 coc-powershell-*.tgz
